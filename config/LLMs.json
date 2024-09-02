@@ -1,0 +1,13 @@
+{
+  "llms": {
+    "claude.sonnet.3.5": {
+      "active": true
+    },
+    "gpt.4": {
+      "active": true
+    },
+    "no.gpt": {
+      "active": false
+    }
+  }
+}
